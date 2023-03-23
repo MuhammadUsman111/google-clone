@@ -1,0 +1,61 @@
+.main
+{
+    margin-top: 100px;
+}
+.logo-class
+{
+    width: 300px;
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.input-search
+{
+    width: 400px;
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 1px solid #dfe1e5 ;
+    line-height: 24px;
+    border-radius: 24px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+
+}
+
+.button-div
+{
+    display: flex;
+    justify-content: center;
+}
+.button-class
+{
+    margin-top: 20px;
+    margin-left: 3px;
+    margin-right: 3px;
+
+    background-color: #dfe1e5;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    
+ 
+}
+.privacy-class 
+{
+    margin-top: 100px;
+    text-align: center;
+
+}
